@@ -1,0 +1,5 @@
+file = open("Test.txt")
+content = file.read()
+print("Contents of the Files:")
+print(content)
+file.close()
